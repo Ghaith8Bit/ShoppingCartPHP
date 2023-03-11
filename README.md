@@ -1,4 +1,4 @@
-#Shopping Cart PHP Repository
+# Shopping Cart PHP Repository
 The "Shopping Cart PHP" repository provides a simple, yet powerful, shopping cart implementation using vanilla PHP. It is designed to be easy to integrate into any web application and provide a smooth and seamless online shopping experience for customers.
 
 The repository contains all the necessary code and files to set up a functional shopping cart system. This includes PHP scripts for adding and removing items from the cart, calculating total prices, and checking out. The repository also includes sample HTML and CSS files that can be used as a starting point for building the shopping cart interface.
